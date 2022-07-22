@@ -20,10 +20,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 
-</div
-<a href="https://www.instagram.com/_viniciusallvess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<div>
-
 </div>
 
 ##
+
+<div>
+<a href="https://www.instagram.com/_viniciusallvess/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
+  
+<a href="https://www.linkedin.com/in/vinícius-alves-330883226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+
