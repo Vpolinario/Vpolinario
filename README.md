@@ -1,4 +1,4 @@
-### Opa! Eu sou o Vinícius Alves
+### Opa! Eu sou o Vinícius Alves.
 
 - 🌱 Estudando linguagens de promagação
 
