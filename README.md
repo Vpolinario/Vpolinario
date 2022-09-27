@@ -1,8 +1,5 @@
 ### Opa! Eu sou o Vinícius Alves.
 
-Atualmente estou no 2º semestre em Ciência da computação na UNA. 
-Nesse GitHub irei compartilhar alguns projetos e atividades feitas na faculdade.
-
 
 - 🌱 Estudando linguagens de promagação
 
