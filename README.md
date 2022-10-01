@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Vinícius Alves.
 
-
+- ⚙  Atualmente estou trabalhando com Suporte Técnico/Infra
 - 🌱 Estudando linguagens de promagação
 
 <div align="center">
