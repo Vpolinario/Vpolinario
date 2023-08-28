@@ -1,8 +1,7 @@
 ### Opa! Eu sou o Vinícius Alves.
 
 - ⚙  Atualmente estou trabalhando com Suporte Técnico/Infra
-- 🌱 Estudando linguagens de promagação
-
+- 🌱 Estudante Apaixonado por Desenvolvimento em Busca de Novos Desafios 🚀
 <div align="center">
   <a href="https://github.com/Vpolinario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vpolinario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
